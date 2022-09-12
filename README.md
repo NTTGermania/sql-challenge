@@ -1,1 +1,3 @@
 # sql-challenge
+
+This is my Github repo containing the files for the sql-challenge assignment.  The data folder contains the csv files that were used to create the tables in PostgresSQL.  There are also the QuickDBD SQL source file that was used to create a table schema for the CSV files and the QuickDBD png file that show th ERD that was created from QuickDBD.  Lastly the query SQL source file that contained all the codes that were used to query.
